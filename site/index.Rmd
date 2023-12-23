@@ -1,0 +1,37 @@
+---
+title: "Justin Lachapelle"
+image: "juju.jpeg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/justinlachapelle/"
+  - label: GitHub
+    url: "https://github.com/justinlachap"
+  - label: Courriel
+    url: "mailto:justinlachapel@gmail.com"
+output:
+  postcards::trestles
+---
+
+Bonjour!
+Je m'appelle Justin et j'étudie en génie logiciel à Polytechnique Montréal. Je m'intéresse à la science des données, à l'automatisation, à l'algorithmique et au développement web.  
+
+Présentement, je m'implique comme:
+
+-   Chargé de travaux pratiques pour les cours:
+    - [LOG2440, Méthodes de développement et conception d'applications Web](https://www.polymtl.ca/programmes/cours/method-de-develop-et-conc-dapplic-web) 
+    - [LOG2400, Analyse et conception de logiciels](https://www.polymtl.ca/programmes/cours/analyse-et-conception-de-logiciels-0)
+    <br />
+- Responsable informatique pour les [Intellectuels pour la souveraineté (IPSO)](https://www.ipso.quebec/)
+
+Par le passé, j'ai occupé le poste de développeur logiciel chez: <br />
+ - [Quantum Simulations](https://quantumsimulations.app/) (durée: 8 mois)  
+ - [Luminator Technology Group](https://luminator.com/en-us/) (durée: 4 mois)
+
+Dans mes temps libres, je passe beaucoup de temps à [lire](https://www.goodreads.com/review/list/151464723?order=d&shelf=read&sort=date_read) et à [jouer aux échecs](https://www.chess.com/stats/live/rapid/just_in2000/365)!
+
+    
+    
+      
+  
+  
+(site mis à jour le 23 décembre 2023)
